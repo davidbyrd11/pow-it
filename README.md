@@ -6,4 +6,8 @@ I really like 37signals new zero config rack server called [pow](http://pow.cx/)
 ##Installation
 Install Powit by running this command:
 `curl byrdhou.se/powit/install.sh | sh`
-Restart your terminal. Then you can create a pow project by doing `powit ~/absolute/path/to/project`
+Restart your terminal. 
+
+##Usage
+
+`powit ~/absolute/path/to/app_name`. Then navigate to http://app_name.dev/.
